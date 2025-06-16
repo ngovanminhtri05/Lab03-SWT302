@@ -13,9 +13,11 @@
         <maven.compiler.target>24</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>11</java.version>
-    <sonar.projectKey>ngovanminhtri05_Lab03-SWT302</sonar.projectKey>
-    <sonar.organization>ngovanminhtri05
-    </sonar.organization>
+
+        <!-- SonarCloud settings -->
+        <sonar.projectKey>ngovanminhtri05_Lab03-SWT302</sonar.projectKey>
+        <sonar.organization>ngovanminhtri05</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     <build>
         <plugins>

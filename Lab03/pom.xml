@@ -13,8 +13,8 @@
         <maven.compiler.target>24</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>11</java.version>
-    <sonar.projectKey>YOUR_PROJECT_KEY_FROM_SONARCLOUD</sonar.projectKey>
-    <sonar.organization>YOUR_ORGANIZATION_KEY_FROM_SONARCLOUD
+    <sonar.projectKey>ngovanminhtri05_Lab03-SWT302</sonar.projectKey>
+    <sonar.organization>ngovanminhtri05
     </sonar.organization>
     </properties>
     <build>
